@@ -1,5 +1,5 @@
 .homes {
-    grid-column: center-start / center-end ;
+    grid-column: center-start / center-end;
     margin: 15rem 0;
 
     display: grid;
@@ -7,7 +7,7 @@
     grid-gap: 7rem;
 }
 
-.home{
+.home {
     background-color: $color-grey-light-1;
 
     display: grid;
