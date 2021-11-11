@@ -2,9 +2,9 @@
 
 # Indice
 
-- [ Versão desktop ](#-Versão-desktop)
-- [ Versão Mobile ](#-Versão-Mobile)
-- [ Demonstration ](#-Demonstration)
+- [ Versão desktop ](#Versão-desktop)
+- [ Versão Mobile ](#Versão-Mobile)
+- [ Demonstration ](#Demonstration)
 - [ About ](#-About)
 - [ Tecnologias utilizadas ](#-Tecnologias-utilizadas)
 - [ Como baixar o projeto ](#-Baixar-o-projeto)
