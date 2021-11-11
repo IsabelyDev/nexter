@@ -1,22 +1,31 @@
 <h1 align="center"> Nexter </h1>
 
-<h1> 
-    Versão desktop
-    <img src="./img/desktop.png" /> 
-</h1>
-
-<h1> 
-    Versão Mobile
-    <img src="./img/mobile.png" /> 
-</h1>
-
 # Indice
 
+- [ Versão desktop ](#-Versão-desktop)
+- [ Versão Mobile ](#-Versão-Mobile)
+- [ Demonstração ](#-Demonstração)
 - [ About ](#-About)
 - [ Tecnologias utilizadas ](#-Tecnologias-utilizadas)
 - [ Como baixar o projeto ](#-Baixar-o-projeto)
 
 ---
+
+### Versão desktop
+<p>
+    <img src="./img/desktop.png" /> 
+</p>
+
+### Versão Mobile
+<h1> 
+    <img src="./img/mobile.png" /> 
+</h1>
+
+### Demonstração
+<h1> 
+    <img src="./img/nexter.gif" /> 
+</h1>
+
 ### 🌴 About
 
 Aplicação com foco em grid
@@ -27,7 +36,7 @@ Aplicação com foco em grid
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - html
-- css avançado [ animações, pseudoelementos, transform, transition, variaveis, flexbox ]
+- css avançado [ animações, pseudoelementos, transform, transition, variaveis, flexbox, grid ]
 - sass [ mixins, variaveis, funções ]
 
 ---
