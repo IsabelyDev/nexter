@@ -4,7 +4,7 @@
 
 - [ Versão desktop ](#Versão-desktop)
 - [ Versão Mobile ](#Versão-Mobile)
-- [ Demonstration ](#Demonstration)
+- [ Demonstração ](#Demonstração)
 - [ About ](#-About)
 - [ Tecnologias utilizadas ](#-Tecnologias-utilizadas)
 - [ Como baixar o projeto ](#-Baixar-o-projeto)
@@ -21,7 +21,7 @@
     <img src="./img/mobile.png" /> 
 </h1>
 
-### Demonstration
+### Demonstração
 <h1> 
     <img src="./img/nexter.gif" /> 
 </h1>
